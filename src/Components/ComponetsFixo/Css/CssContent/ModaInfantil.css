@@ -1,0 +1,50 @@
+
+.base-modaI{
+    margin-top: 5px;
+}
+
+.modaI{
+   
+    text-align: center;
+}
+.base_conteudo_infantil{
+    text-align: center;
+    margin-top: 50px;
+    height: 10%;
+}
+
+
+.conteudo_infantil{
+    justify-content: center;
+    display: flex;
+}
+
+.conteudo_infantil img{
+   padding: 10px;
+   width: 400px;
+}
+
+.base_titulos{
+    display: flex;
+    justify-content: space-around;
+}
+
+.titulos{
+    display: flex;
+}
+
+.blusas{
+    position: relative;
+    left: -49%;
+}
+
+.bermudas{
+    position: relative;
+    left: -72%;
+}
+
+.conjutinhos{
+    position: relative;
+    left: -95%;
+}
+

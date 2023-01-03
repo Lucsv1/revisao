@@ -1,0 +1,63 @@
+
+
+.barra_base h1{
+    background-color: rgb(47, 46, 46);
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.barra h1{
+    background-color: rgb(47, 46, 46);
+    text-align: center;
+}
+
+.barra nav{
+    background-color: rgb(47, 46, 46);
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+ul{
+    background-color: rgb(47, 46, 46);
+    display: flex;
+    list-style-type: none ;
+   
+}
+
+ul li{
+    background-color: rgb(47, 46, 46);
+    margin-left: 50px;
+    transition: 0.5s;
+}
+
+ul li:hover{
+    border-bottom:solid 1px white;
+}
+
+.delunder{
+    background-color: rgb(47, 46, 46);
+    text-decoration: none;
+    color: white;
+}
+
+.delunder2{
+    background-color: rgb(47, 46, 46);
+    text-decoration: none;
+    color: white;
+}
+
+.delunder3{
+    background-color: rgb(47, 46, 46);
+    text-decoration: none;
+    color: white;
+}
+
+.delunder4{
+    background-color: rgb(47, 46, 46);
+    text-decoration: none;
+    color: white;
+}
+
+

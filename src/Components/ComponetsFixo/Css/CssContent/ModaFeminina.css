@@ -1,0 +1,43 @@
+
+.base-modaF{
+    margin-top: 5px;
+}
+
+.modaF{
+   
+    text-align: center;
+}
+.base_conteudo_feminina{
+    text-align: center;
+    margin-top: 50px;
+    height: 10%;
+}
+
+
+.conteudo_feminina{
+    justify-content: center;
+    display: flex;
+}
+
+.conteudo_feminina img{
+   padding: 10px;
+   width: 400px;
+}
+
+.base_titulos{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.titulos{
+    display: flex;
+}
+
+.titulos p{
+    margin-left: -2%;
+    margin-right: 94%;
+    position: relative;
+    right: 80%;
+    padding: 10px;
+}
